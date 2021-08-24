@@ -1,0 +1,121 @@
+div {
+    text-align: center;
+    text-decoration: none;
+}
+
+.shark {
+    background-image: url(img/polygons.png);
+    padding: 200px 0px;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.menu a {
+    text-decoration: none;
+    margin: 20px;
+    color: black;
+}
+
+.shark a {
+    background-color: white;
+    padding: 13px 24px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.about img {
+    width: 400px;
+    float: right;
+}
+
+.about p {
+    text-align: justify;
+
+}
+
+.about {
+    width: 1200px;
+    margin: 0 auto;
+}
+.member {
+    width: 23%;
+    display: inline-block;
+    border: 1px solid rgb(102, 95, 95) ;
+    border-radius: 10px;
+    padding: 20px 10px;
+}
+.member img{
+    width: 100%;
+    border-radius: 10px;
+}
+.member a{
+    background-color: rgb(39, 164, 223);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px ;
+    color: black;
+    width: 90%;
+    display: inline-block;
+}
+.tariffs {
+    background-color: gray;
+    
+}
+.tariffs ul{
+    background-color: white;
+    width: 25%;
+    list-style-type: none;
+    padding: 0px;
+    margin: 10px 30px;
+
+}
+.tariffs a{
+    background-color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px ;
+    color: white;
+}
+#basic{
+    background-color: black;
+    color: white;
+    padding: 35px 0px;
+    font-size: 25px;
+}
+.tariffs li{
+    border-bottom: 1px solid black;
+    padding: 20px 0px;
+        }  
+    #buy {
+        background-color: lightgray;
+    } 
+    .contacts button {
+        background-color: black;
+        padding: 10px 20px;
+        text-decoration: none;
+    border-radius: 10px ;
+    color: white;
+    }
+    .contacts input {
+        width: 95%;
+        margin: 5px 0px;
+        padding: 8px;
+    }
+.address {
+      background-image: url(img/address.png) ;
+}
+.phone {
+    background-image: url(img/phone.png);
+}
+.mail {
+    background-image: url(img/mail.png);
+} 
+.contact {
+    background-repeat: no-repeat;
+    text-align: left;
+    margin-left: 5%;
+    padding-left: 5%;
+    background-size: 18px 18px;
+}
